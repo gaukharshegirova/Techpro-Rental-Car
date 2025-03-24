@@ -2,7 +2,7 @@
 cd /home/ubuntu
 apt update -y
 apt install python3 python3-pip python3-venv curl mysql-client nginx -y
-git clone https://github.com/techpro-aws-devops/Techpro-Rental-Car.git
+git clone https://github.com/gaukharshegirova/Techpro-Rental-Car.git
 cd /home/ubuntu/Techpro-Rental-Car
 chown -R ubuntu:ubuntu /home/ubuntu/Techpro-Rental-Car
 chmod -R 755 /home/ubuntu/Techpro-Rental-Car
